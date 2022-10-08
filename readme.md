@@ -1,6 +1,6 @@
 # Full stack chat application with react, sockets.io and node.js
 
-![Alt text](public\app-screen.PNG "app preview")
+![Preview](app-screen.PNG "app preview")
 
 ### To run application:
     - split terminal
